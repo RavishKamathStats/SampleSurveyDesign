@@ -10,3 +10,5 @@ Professor: Yuejiao Cindy Fu
 Assignment 2 Description: Covers proof on ubiased estimators and random sampling
 
 Assignment 3 Descripition: Covers stratification sampling methods, estimation, intervals, and interpretation. 
+
+Assignment 4 Description: Calculte Seperate Ratio Estimator and estimation.
